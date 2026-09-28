@@ -1,0 +1,1 @@
+"""DiscordPTB Theme Core Package"""
