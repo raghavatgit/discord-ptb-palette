@@ -1,0 +1,2 @@
+# Pin pytest, mypy, and flake8 development dependencies
+# Specification and parameters for discord-ptb-palette
